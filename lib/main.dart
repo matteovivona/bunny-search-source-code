@@ -74,7 +74,7 @@ void main() {
           )
         ],
         child: EasyLocalization(
-          fallbackLocale: const Locale('ru'),
+          fallbackLocale: const Locale('en'),
           useOnlyLangCode: true,
           path: 'resources/langs',
           supportedLocales: const [
